@@ -1,3 +1,3 @@
-# practice_repo
-KT_Hannah-Python
-# Das ist mein erster Versuch hier. 
+# Das ist mein erster Versuch hier. Keine Ahnung wie es weiter geht. 15.09.2022
+
+
